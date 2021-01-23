@@ -6,7 +6,7 @@ Si jamais il y a des problèmes de couleurs ou autres, n'hésitez pas à ouvrir 
 
 ## Comment installer l'extension sur son navigateur ?
 
-#### En téléchargeant l'extension au format .crx
+### En téléchargeant l'extension au format .crx
 
 Téléchargez une release (de préférence la dernière) depuis la page release [https://github.com/RedoverPlayer/pronote_dark_theme_plus/releases](https://)
 
@@ -18,7 +18,7 @@ Glissez déposez le fichier .crx dans le navigateur
 
 Voilà, votre extension est normalement installée
 
-#### En téléchargeant le code source
+### En téléchargeant le code source
 
 Téléchargez le code source sur la branche main. Dézippez ensuite l'archive dans un dossier.
 
