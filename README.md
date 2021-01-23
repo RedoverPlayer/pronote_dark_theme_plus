@@ -1,6 +1,6 @@
 # Pronote Dark Theme Plus
 
-[![MIT license](https://img.shields.io/badge/license-MIT-lightgray?style=flat-square)](LICENSE)
+[![MIT license](https://img.shields.io/badge/license-GPL3-green?style=flat-square)](LICENSE)
 [![Latest release](https://img.shields.io/github/v/release/RedoverPlayer/pronote_dark_theme_plus?color=darkgreen&include_prereleases&label=Latest%20release&style=flat-square)](https://github.com/RedoverPlayer/pronote_dark_theme_plus/releases)
 
 Thème Sombre pour pronote plus d'autres features comme la sélection activée sur presque tout les textes. Compatible avec tout navigateur desktop (appareils mobiles non supportés).
