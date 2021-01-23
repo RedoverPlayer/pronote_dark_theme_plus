@@ -344,3 +344,7 @@ div[class="as-header"]:hover {
 td[class="EspaceGauche AlignementHaut"] div[class="Gras DoubleEspace"] {
     background-color: rgb(80, 80, 80) !important;
 }
+
+div[class="liste-docs"] a:hover {
+    background-color: rgb(120, 120, 120) !important;
+}
