@@ -1,8 +1,4 @@
 div {
-    -webkit-touch-ctextout: text; /* iOS Safari */
-    -webkit-user-select: text; /* Safari */
-     -khtml-user-select: text; /* Konqueror HTML */
-       -moz-user-select: text; /* Old versions of Firefox */
         -ms-user-select: text; /* Internet Explorer/Edge */
             user-select: text; /* Non-prefixed version, currently
                                   supported by Chrome, Edge, Opera and Firefox */
@@ -342,4 +338,9 @@ ul[class*="liste-clickable"] li:hover {
 /* Titres matières */
 div[class="as-header"]:hover {
     background-color: rgb(120, 120, 120) !important;
+}
+
+/* Manuels numériques dans le cahier de textes */
+td[class="EspaceGauche AlignementHaut"] div[class="Gras DoubleEspace"] {
+    background-color: rgb(80, 80, 80) !important;
 }
