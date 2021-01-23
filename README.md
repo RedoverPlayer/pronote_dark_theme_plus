@@ -1,12 +1,15 @@
 # Pronote Dark Theme Plus
 
+[![MIT license](https://img.shields.io/badge/license-MIT-lightgray?style=flat-square)](LICENSE)
+[![Latest release](https://img.shields.io/github/v/release/RedoverPlayer/pronote_dark_theme_plus?color=darkgreen&include_prereleases&label=Latest%20release&style=flat-square)](https://github.com/RedoverPlayer/pronote_dark_theme_plus/releases)
+
 Thème Sombre pour pronote plus d'autres features comme la sélection activée sur presque tout les textes. Compatible avec tout navigateur desktop (appareils mobiles non supportés).
 
 Si jamais il y a des problèmes de couleurs ou autres, n'hésitez pas à ouvrir une issue.
 
 ## Comment installer l'extension sur son navigateur ?
 
-#### En téléchargeant l'extension au format .crx
+### En téléchargeant l'extension au format .crx
 
 Téléchargez une release (de préférence la dernière) depuis la page release [https://github.com/RedoverPlayer/pronote_dark_theme_plus/releases](https://)
 
@@ -18,7 +21,7 @@ Glissez déposez le fichier .crx dans le navigateur
 
 Voilà, votre extension est normalement installée
 
-#### En téléchargeant le code source
+### En téléchargeant le code source
 
 Téléchargez le code source sur la branche main. Dézippez ensuite l'archive dans un dossier.
 
