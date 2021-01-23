@@ -1,0 +1,345 @@
+div {
+    -webkit-touch-ctextout: text; /* iOS Safari */
+    -webkit-user-select: text; /* Safari */
+     -khtml-user-select: text; /* Konqueror HTML */
+       -moz-user-select: text; /* Old versions of Firefox */
+        -ms-user-select: text; /* Internet Explorer/Edge */
+            user-select: text; /* Non-prefixed version, currently
+                                  supported by Chrome, Edge, Opera and Firefox */
+}
+
+body {
+    background-color:rgb(50,50,50) !important;
+}
+
+a {
+    color:white !important;
+}
+
+p {
+    color:white !important;
+}
+
+span {
+    color:white;
+}
+
+table.Fenetre_Cadre {
+    background-color:rgb(50,50,50) !important;
+}
+
+.widget {
+    color:white !important;
+}
+
+.widget header .cta-conteneur .as-button {
+    background-color: #3292ff !important;
+    border:none !important;
+}
+
+.widget .content-container > div[id^=id_] h4 {
+    color:white !important;
+}
+
+.kiosque .content-container > div[id^="id_"] ul > li .link-as-wrapper span {
+    color:white !important;
+}
+
+.widget.agenda .content-container .no-events, .widget.agenda .content-container .no-events p, .widget.agenda .content-container .salle, .widget.agenda .content-container .event-type {
+    color:white !important;
+}
+
+.widget.travailafaire .content-container > div[id^=id_] h4 {
+    color:white !important;
+    background-color: #3292ff !important;
+}
+
+.widget.travailafaire .switch.on-widgets label > input[type="checkbox"]:checked ~ .lever::after {
+    background-color: #3292ff !important;
+}
+
+/* .icon_papillon_notif:before {
+    content:"\1F514" !important;
+} */
+
+.ObjetBandeauEspace {
+    background-color:rgb(50,50,50) !important;
+    color:white !important;
+}
+
+.objetBandeauEntete_secondmenu {
+    background-color:rgb(120,120,120) !important;
+}
+
+.objetBandeauEntete_secondmenu .menu-principal_niveau1 .item-menu_niveau1.selected {
+    background-color:rgb(150,150,150) !important;
+}
+
+i.ObjetBoutonBandeau_icone.ObjetBoutonBandeau_iconeInactive {
+    background-color:rgb(200,200,200) !important;
+}
+
+.widget {
+    background-color:rgb(80,80,80) !important;
+}
+
+.Tableau_Colonne {
+    background-color:rgb(50,50,50) !important;
+}
+
+.Tableau_Cellule {
+    background-color:rgb(50,50,50) !important;
+}
+
+/* arrière-plan */
+.dotty {
+    background-color:rgb(50,50,50) !important;
+    background-image:none !important;
+}
+
+/* div.PetitEspaceHaut {
+    background-color: #3292ff !important;
+} */
+
+div.AlignementMilieuVertical div {
+    color:white !important;
+}
+
+div.UtilitaireBloc_itemInverse div {
+    /* background-color:rgb(50,50,50) !important; */
+    color:white !important;
+}
+
+/* messages pop up */
+div.Espace {
+    background-color:rgb(50,50,50) !important;
+}
+
+div.PourFenetreBloc_Contenu div {
+    color:white !important;
+    background-color:rgb(50,50,50) !important;
+}
+
+div.UtilitaireBloc_itemNormal div div {
+    color:white !important;
+    background-color:rgb(50,50,50) !important;
+}
+
+div.PetitEspace {
+    background-color:rgb(80,80,80) !important;
+}
+
+div.UtilitaireBloc_containerInverse {
+    background-color:rgb(50,50,50) !important;
+}
+
+div.DivBloc {
+    background-color:rgb(50,50,50) !important;
+}
+
+/* heures emploi du temps */
+div.corpsGrille div[id*="Zone_TitreLignes"] div[id*="Contenu_TitreLignes"] div[style*="width:40px;"] div[class*="AlignementDroit PetitEspaceDroit"] {
+    color:white !important;
+}
+
+/* bouton consulter copie */
+/* .widget.travailafaire .content-container > div[id^=id_] .as-cta.voir-rendu-pn, .widget.travailafaire .content-container > div[id^=id_] .as-cta.rendu-pn {
+    border:none !important;
+    background-color:#3292ff !important;
+} */
+
+/* .widget.travailafaire .content-container > div[id^=id_] .as-cta.voir-rendu-pn, .widget.travailafaire .content-container > div[id^=id_] .as-cta.rendu-pn:hover {
+    border:none !important;
+    background-color:rgb(94, 122, 221) !important;
+    -webkit-box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.42) !important;
+    -moz-box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.42) !important;
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.42) !important;
+} */
+
+div[class="interface_affV_client no-tactile over-scroll"] {
+    background-color:rgb(50,50,50) !important;
+}
+
+td[id*="GInterface"] {
+    background-color:rgb(50,50,50) !important;
+    color:white !important;
+}
+
+div[class="InlineBlock AlignementHaut"] {
+    color:white !important;
+}
+
+div[id*="PourFenetreBloc_Contenu"] div div {
+    color:white !important;
+}
+
+div[id*="PourFenetreBloc_Contenu"] div div div {
+    color:white !important;
+}
+
+div[id*="PourFenetreBloc_Contenu"] span {
+    color:white !important;
+}
+
+div.BlocDevoirEvaluation {
+    color:white !important;
+    background-color:rgb(50,50,50) !important;
+}
+
+div[class*="Texte10 Gras AlignementMilieu GrandEspaceHaut"] {
+    color:white !important;
+}
+
+tbody {
+    color:white !important;
+}
+
+textarea {
+    color:white !important;
+    background-color:rgb(80,80,80) !important;
+}
+
+div.visu_contenu {
+    padding:5px 5px !important;
+    color:white !important;
+    background-color:rgb(80,80,80) !important;   
+}
+
+td[class*="Gras EspaceGauche MaClasseBordure"] {
+    background-color:rgb(120,120,120) !important;
+}
+
+fieldset[class*="AvecSelectionTexte utilMess_visu_message AvecMain"] {
+    background:none !important;
+}
+
+div[class="UtilitaireBloc_itemInverse Bloc_InfoCompl AlignementDroit AlignementHaut EspaceHaut"] {
+    background-color: rgb(50, 50, 50) !important;
+}
+
+li[class="item-menu_niveau1"] {
+    background-color:rgb(50, 50, 50) !important;
+}
+
+li[class="item-menu_niveau1 focused-in"] {
+    background-color:rgb(80, 80, 80) !important;
+}
+
+li[class="item-menu_niveau1 has-submenu"] {
+    background-color:rgb(50, 50, 50) !important;
+}
+
+li[class="item-menu_niveau1 has-submenu focused-in"] {
+    background-color:rgb(80, 80, 80) !important;
+}
+
+div[id$="PiedBull"] div {
+    color:white;
+}
+
+div[class="liste_gridTitre"] {
+    background-color:rgb(50, 50, 50) !important;
+}
+
+div[class="CarteCompteZoneGenerique"] {
+    background-color:rgb(80, 80, 80) !important;
+    color:white !important;
+}
+
+span[class="GrandEspaceDroit CarteCompteZoneGenerique_Title"] {
+    color:white !important;
+}
+
+button[class="ieBouton Texte10 OmbreFocus NoWrap ieBoutonDefautSansImage"] {
+    background-color:rgb(80, 80, 80) !important;
+}
+
+div[class="NoWrap EspaceGauche GrandEspaceHaut GrandEspaceBas CarteCompteZoneGenerique"] {
+    background-color:rgb(80, 80, 80) !important;
+    color:white !important;
+}
+
+ul[class="menu-principal_niveau2"] {
+    background-color:rgb(80, 80, 80) !important;
+}
+
+ul.menu-principal_niveau2 :hover {
+    background-color:rgb(96, 96, 96) !important;
+}
+
+div[class="FondBlanc"] {
+    background-color:rgb(50, 50, 50) !important;
+}
+
+td[class="AlignementDroit AlignementHaut"] {
+    background-color:rgb(50, 50, 50) !important;
+}
+
+div[class="page-conteneur menu-cantine"] h4 {
+    color:white !important;
+}
+
+div[class="Texte10 Espace"] {
+    color:white !important;
+}
+
+div[class="BloquerInterface NePasImprimer SansSelectionTexte"] {
+	background-color: rgb(50, 50, 50) !important;
+}
+
+div[class="Masquer_Screen FondBlanc"] {
+	background-color: rgb(50, 50, 50) !important;
+}
+
+div[class="interface_affV_client no-tactile"] {
+	background-color: rgb(50, 50, 50) !important;
+}
+
+div[class="WhiteSpaceNormal InlineBlock Souligne AvecMain OmbreFocus GrasSurvol"] {
+    color:white !important;
+}
+
+div[class="Gras"] {
+    color:white !important;
+}
+
+span[style*="color: #000000"] {
+    color: white !important;
+}
+
+div[class="GrandEspaceHaut GrandEspaceGauche Gras"] {
+    color:white !important;
+}
+
+/* Texte reconnexion */
+
+div[class="Texte"] div[style="float:right"] {
+    color: white !important;
+}
+
+/* Boutons travail à faire */
+
+div[class="taf-btn-conteneur"] a[role="button"] {
+    background-color: #3292ff !important;
+    border:none !important;
+}
+
+div[class="taf-btn-conteneur"] a[role="button"]:hover {
+    background-color: #6eb2ff !important;
+    border:none !important;
+}
+
+div[class="taf-btn-conteneur"] a[role="button"]:active {
+    background-color: #578ac5 !important;
+    border:none !important;
+}
+
+/* Menus hover */
+ul[class*="liste-clickable"] li:hover {
+    background-color: rgb(120, 120, 120) !important;
+}
+
+/* Titres matières */
+div[class="as-header"]:hover {
+    background-color: rgb(120, 120, 120) !important;
+}

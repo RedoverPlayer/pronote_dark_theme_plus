@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="fr">
+    <head>
+        <meta charset="utf-8">
+        <title>Test</title>
+        <!-- <link rel="icon" href="Logo.jpg"> -->
+        <!-- <link rel="stylesheet" href="styles.css"> -->
+    </head>
+    <body>
+        <style>
+            body {
+                background-color: rgb(50, 50, 50);
+            }
+
+            h1 {
+                color:white;
+            }
+
+            p {
+                color:white;
+            }
+
+            div.test {
+                width:400px;
+            }
+        </style>
+        <div class="test"></div>
+        <h1>Pronote Dark Theme Plus</h1>
+        <p>Bienvenue sur l'extension, pour vérifier s'il existe une version plus récente, voici la page release du repo GitHub : </p>
+        <script>
+            function change_class_1() {
+                var origin = document.getElementById("origin").value;
+                var target = document.getElementById("target").value;
+                chrome.storage.sync.set({"origin": origin});
+                chrome.storage.sync.set({"target": target});
+            }
+        </script>
+    </body>
+</html>

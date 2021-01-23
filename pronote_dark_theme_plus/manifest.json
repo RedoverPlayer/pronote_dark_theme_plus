@@ -1,0 +1,24 @@
+{
+  "name": "Pronote Dark Theme Plus",
+  "version": "1.0",
+  "description": "Adds a copy function to texts",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.index-education.net/pronote/eleve.html"
+      ],
+      "js": ["content.js"],
+      "css": [ "styles.css" ]
+    }
+  ],
+  "manifest_version": 2,
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_title": "Cliquez ici pour ouvrir le menu",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ]
+}
