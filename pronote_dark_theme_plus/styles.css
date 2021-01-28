@@ -348,3 +348,35 @@ td[class="EspaceGauche AlignementHaut"] div[class="Gras DoubleEspace"] {
 div[class="liste-docs"] a:hover {
     background-color: rgb(120, 120, 120) !important;
 }
+
+/* Discussions */
+td[class="EspaceGauche ZoneDeplacementFenetre IE_draggable ui-draggable-handle"] {
+    background-color:rgb(80, 80, 80) !important;
+}
+
+td[class="EspaceDroit PetitEspaceGauche"] {
+    background-color:rgb(80, 80, 80) !important;
+}
+
+td[class="AvecMain "] {
+    background-color:rgb(80, 80, 80) !important;
+}
+
+table[id="IE.Identite.collection.g23.Instances[5]_Contenu_1"] tbody tr td {
+    background-color:rgb(50, 50, 50) !important;
+    color: white !important;
+}
+
+/* Emploi du temps */
+canvas[id*="fond"] {
+    /* background-color:rgb(50, 50, 50) !important; */
+    display:none !important;
+}
+
+canvas[id*="quadrillage"] {
+    background-color:rgb(80, 80, 80) !important;
+}
+
+div[class="SansOutline"] div[class*="PetitEspace"] {
+    color:white !important;
+}
