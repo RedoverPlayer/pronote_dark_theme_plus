@@ -362,7 +362,7 @@ td[class="AvecMain "] {
     background-color:rgb(80, 80, 80) !important;
 }
 
-table[id="IE.Identite.collection.g23.Instances[5]_Contenu_1"] tbody tr td {
+table[class="SansMain liste_fixed"] tbody tr td {
     background-color:rgb(50, 50, 50) !important;
     color: white !important;
 }
