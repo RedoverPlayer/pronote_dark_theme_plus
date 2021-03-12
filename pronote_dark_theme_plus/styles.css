@@ -380,3 +380,11 @@ canvas[id*="quadrillage"] {
 div[class="SansOutline"] div[class*="PetitEspace"] {
     color:white !important;
 }
+
+td[id*="corpsContenu"] {
+    background-color: rgb(80, 80, 80) !important;
+}
+
+table[class="Texte14 Fenetre_Titre"] {
+    background-color: rgb(50, 50, 50) !important;
+}
