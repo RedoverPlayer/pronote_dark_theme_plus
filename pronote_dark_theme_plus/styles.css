@@ -381,6 +381,7 @@ div[class="SansOutline"] div[class*="PetitEspace"] {
     color:white !important;
 }
 
+/* Absence justifiée */
 td[id*="corpsContenu"] {
     background-color: rgb(80, 80, 80) !important;
 }
