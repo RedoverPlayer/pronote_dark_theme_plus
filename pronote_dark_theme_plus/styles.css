@@ -389,3 +389,81 @@ td[id*="corpsContenu"] {
 table[class="Texte14 Fenetre_Titre"] {
     background-color: rgb(50, 50, 50) !important;
 }
+
+/* Ecran reconnexion */
+div[style*="position:relative; top:100px;"] {
+    background-color: rgb(80, 80, 80) !important;
+    border: none !important;
+    border-radius: 15px !important;
+    box-shadow: 6px 7px 16px 4px rgb(0 0 0 / 42%) !important;
+    color: white !important;
+}
+
+div[style*="position:relative; top:100px;"] div div[role="button"] {
+    margin:5px !important;
+    background-color:#3292ff !important;
+    border: none !important;
+    color: white !important;
+    padding: 15px 32px !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    display: inline-block !important;
+    font-size: 16px !important;
+    border-radius:10px !important;
+    transition: .2s !important;
+}
+
+div[style*="position:relative; top:100px;"] div div[role="button"]:hover {
+    background-color:rgb(94, 122, 221) !important;
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.42) !important;
+}
+
+/* Boutons */
+button {
+    outline: none !important;
+}
+
+button:focus {
+    outline: none !important;
+}
+
+button {
+    margin:8px !important;
+    background-color:#3292ff !important;
+    border: none !important;
+    color: white !important;
+    padding: 2px 6px !important;
+    text-align: center !important;
+    text-decoration: none !important;
+    display: inline-block !important;
+    font-size: 11px !important;
+    border-radius:5px !important;
+    transition: .2s !important;
+}
+
+button:hover {
+    background-color:rgb(94, 122, 221) !important;
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.42) !important;   
+}
+
+button[style*="width:165px;"] {
+    width: 155px !important;
+}
+
+i[role="button"]:focus {
+    outline: none !important;
+}
+
+/* Fenêtres */
+div[id*="Fenetre"] {
+    border-radius:8px;
+    border: none;
+    box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.42) !important;
+}
+
+div.VoileOpaque {
+    background-color: rgba(255, 255, 255, 0.4) !important;
+    opacity: 1 !important;
+    backdrop-filter: blur(2px) !important;
+    cursor: auto !important;
+}
