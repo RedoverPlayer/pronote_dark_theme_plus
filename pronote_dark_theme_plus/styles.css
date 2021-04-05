@@ -427,7 +427,7 @@ button:focus {
     outline: none !important;
 }
 
-button {
+button:not(#id_39) {
     margin:8px !important;
     background-color:#3292ff !important;
     border: none !important;
@@ -441,7 +441,7 @@ button {
     transition: .2s !important;
 }
 
-button:hover {
+button:hover:not(#id_39) {
     background-color:rgb(94, 122, 221) !important;
     box-shadow: 4px 4px 4px 4px rgba(0,0,0,0.42) !important;   
 }
