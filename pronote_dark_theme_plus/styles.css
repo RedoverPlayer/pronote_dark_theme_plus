@@ -498,3 +498,7 @@ div[class="Table Cours Image_HachureCoursSuperpose"] div {
     /* background-color: rgb(80, 80, 80) !important; */
     color: black !important;
 }
+
+i[class*="cours_virtuel"] {
+    color: rgb(50, 50, 50) !important;
+}
